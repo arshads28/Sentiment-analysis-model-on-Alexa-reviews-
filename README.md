@@ -48,4 +48,12 @@ Matplotlib, Seaborn (for visualization)
 
 Jupyter Notebook
 
-🚀 Getting Started
+🚀 Prediction
+score are:
+![Screenshot 2025-04-07 230656](https://github.com/user-attachments/assets/5ac1b870-9c9e-4f9c-b7a2-1774ab79be5c)
+
+
+#Sentiment testing
+![Screenshot 2025-04-07 230723](https://github.com/user-attachments/assets/b3fe8a0d-9801-4cfc-a120-816ed7857ffb)
+
+
