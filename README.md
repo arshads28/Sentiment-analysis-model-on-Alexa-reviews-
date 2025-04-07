@@ -4,7 +4,7 @@ This project involves building a sentiment analysis model to classify customer r
 ## 📌 Project Overview
 With the increasing volume of customer feedback on e-commerce platforms, automating sentiment classification can provide valuable insights for product improvements and customer satisfaction. This project uses a labeled dataset of Alexa product reviews to train and evaluate a sentiment classification model.
 
-##🧠 Features
+## 🧠 Features
 Preprocessing of textual data (tokenization, stopwords removal, etc.)
 
 Vectorization using TF-IDF or CountVectorizer
@@ -13,7 +13,7 @@ Sentiment classification using Machine Learning (Logistic Regression, Naive Baye
 
 Model evaluation with accuracy, confusion matrix, and F1 score
 
-##📁 Dataset
+## 📁 Dataset
 The dataset used in this project is Amazon Alexa Reviews dataset from Kaggle.
 
 Columns include:
@@ -50,10 +50,14 @@ Jupyter Notebook
 
 🚀 Prediction
 score are:
+
+
 ![Screenshot 2025-04-07 230656](https://github.com/user-attachments/assets/5ac1b870-9c9e-4f9c-b7a2-1774ab79be5c)
 
 
 #Sentiment testing
+
+
 ![Screenshot 2025-04-07 230723](https://github.com/user-attachments/assets/b3fe8a0d-9801-4cfc-a120-816ed7857ffb)
 
 
